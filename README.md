@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory HomeLab (AlgoExpert)</b>
+- <b>Active Directory HomeLab (infosec.local)</b>
   - [Implimenting Active Directory In Simulated enterprise environment](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 Certifications:</h2>
