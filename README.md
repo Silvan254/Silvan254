@@ -1,4 +1,4 @@
-<h1>Hi, I'm Silvanus! <br/><a href="https://github.com//Silvan254/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/silvanus-otunga-256258191">NOC Enngineer</a>, <a href="https://www.youtube.com/c/OSI_lvanus">YouTuber</a></h1>
+<h1>Hi, I'm Silvanus! <br/><a href="https://github.com//Silvan254/">Information Security Engineer</a>, <a href="https://www.linkedin.com/in/silvanus-otunga-256258191">NOC Enngineer</a>, <a href="https://www.youtube.com/c/OSI_lvanus">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
