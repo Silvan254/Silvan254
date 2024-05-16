@@ -6,7 +6,7 @@
   - [Implimenting Active Directory In Simulated Enterprise environment](https://github.com/)
   - [Configuring and Securing NGINX Web Server with Modsecurity WAF(Web application Firewall)](https://github.com/)
   - [Setting up snort as Traffic sniffer and IPS/IDS](https://github.com/)
-  - Vulnerability scan on NGINIX web Sever
+  - Vulnerability scan on NGINIX web Sever with NIKTO
 <h2>👨‍💻 Certifications:</h2>
 - [ISC2 Certified in Cybersecurity (CC)] (https://github.com//AD_PS)
 <h2>📺 Popular YouTube Videos</h2>
