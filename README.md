@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory HomeLab (infosec.local)</b>
+- <b>Active Directory Domain Services(AD,DHCP and DNS) (infosec.local)</b>
   - [Implimenting Active Directory In Simulated Enterprise environment](https://github.com/)
     
 - <b>Securing NGINX Web Server with Modsecurity WAF (infosec.local)</b>
