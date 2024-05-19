@@ -2,12 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Domain Services(AD,DHCP and DNS) (infosec.local)</b>
+- <b>Active Directory Domain Services (AD,DHCP and DNS) (infosec.local)</b>
   - [Implimenting Active Directory In Simulated Enterprise environment](https://github.com/)
-    
 - <b>Securing NGINX Web Server with Modsecurity WAF (infosec.local)</b>
   - [Configuring and Securing NGINX Web Server with Modsecurity WAF(Web application Firewall)](https://github.com/Silvan254/Configuring-and-Securing-NGINX-Web-Server-with-Modsecurity-WAF-Web-application-Firewall-)
-    
 - <b>Intruction Prevention/Detection System Implimentaion with Snort</b>
   - [Setting up snort as Traffic sniffer and IPS/IDS](https://github.com/)
     
