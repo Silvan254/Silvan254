@@ -11,7 +11,7 @@
     
 <h2>👨‍💻 Certifications:</h2>
 - <b>[Cisco Certified Network Associate (CCNA)] (https://github.com//)</b>
-- <b>[ISC2 Certified in Cybersecurity (CC)] (https://github.com//A)</b>
+- [ISC2 Certified in Cybersecurity (CC)] (https://github.com//A)
 <h2>About Me</h2>
 
 - 🔭 I’m currently working on enhancing my skills in cybersecurity through hands-on projects and real-world scenarios. Currently, I'm focusing on penetration testing, threat intelligence, and incident response.Working on <h2>ComPTIA SEC+ and TCM Security Practical Junior Penetration Tester(PJPT)</h2>
