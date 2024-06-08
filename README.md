@@ -4,15 +4,17 @@
 
 - <b>Active Directory Domain Services (AD,DHCP and DNS) (infosec.local)</b>
   - [Implimenting Active Directory In Simulated Enterprise environment](https://github.com/)
+- <b>Intrusion Prevention/Detection System Implimentaion with Suricata</b>
+  - [Setting up Suricata as an IPS/IDS](https://github.com/)
 - <b>Securing NGINX Web Server with Modsecurity WAF</b>
   - [Configuring and Securing NGINX Web Server with Modsecurity WAF(Web application Firewall)](https://github.com/Silvan254/Configuring-and-Securing-NGINX-Web-Server-with-Modsecurity-WAF-Web-application-Firewall-)
-- <b>Intruction Prevention/Detection System Implimentaion with Suricata</b>
-  - [Setting up Suricata as an IPS/IDS](https://github.com/)
+
     
 <h2>👨‍💻 Certifications:</h2>
-- <b>[Cisco Certified Network Associate (CCNA)]</b>
+  *<b>Cisco Certified Network Associate (CCNA)</b>
 
-- <b>[ISC2 Certified in Cybersecurity (CC)]</b>
+  *<b>ISC2 Certified in Cybersecurity (CC)</b>
+
 <h2>About Me</h2>
 
 - 🔭 I’m currently working on enhancing my skills in cybersecurity through hands-on projects and real-world scenarios. Currently, I'm focusing on penetration testing, threat intelligence, and incident response.Working on <h2>ComPTIA SEC+ and TCM Security Practical Junior Penetration Tester(PJPT)</h2>
