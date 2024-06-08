@@ -6,11 +6,12 @@
   - [Implimenting Active Directory In Simulated Enterprise environment](https://github.com/)
 - <b>Securing NGINX Web Server with Modsecurity WAF</b>
   - [Configuring and Securing NGINX Web Server with Modsecurity WAF(Web application Firewall)](https://github.com/Silvan254/Configuring-and-Securing-NGINX-Web-Server-with-Modsecurity-WAF-Web-application-Firewall-)
-- <b>Intruction Prevention/Detection System Implimentaion with Snort</b>
-  - [Setting up snort as Traffic sniffer and IPS/IDS](https://github.com/)
+- <b>Intruction Prevention/Detection System Implimentaion with Suricata</b>
+  - [Setting up Suricata as an IPS/IDS](https://github.com/)
     
 <h2>👨‍💻 Certifications:</h2>
 - <b>[Cisco Certified Network Associate (CCNA)]</b>
+
 - <b>[ISC2 Certified in Cybersecurity (CC)]</b>
 <h2>About Me</h2>
 
