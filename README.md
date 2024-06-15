@@ -2,7 +2,10 @@
 
 <h1>👨‍💻 Cybersecurity Projects: </h1>
 <h2>👨‍💻 Information Security Lab</h2>
+Welcome to my Information Security Lab, where I've meticulously crafted an environment to simulate and refine enterprise-grade cybersecurity operations. This setup integrates a diverse array of critical components designed for monitoring, safeguarding, and thoroughly analyzing security events and incidents.
+
 <h2>👨‍💻 Network Plan</h2>
+
 ![Screenshot from 2024-06-15 18-46-40](https://github.com/Silvan254/Silvan254/assets/65334897/277afc42-af18-42d4-9f71-02df146297f8)
 
 - <b>Active Directory Domain Services (AD,DHCP and DNS) (infosec.local)</b>
