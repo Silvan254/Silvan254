@@ -1,8 +1,9 @@
 <h1>Hi, I'm Silvanus! <br/><a href="https://github.com//Silvan254/">Network and Information Security Engineer</a>
 
 <h1>👨‍💻 Cybersecurity Projects: </h1>
-<h1>👨‍💻 Information Security Lab</h1>
+<h2>👨‍💻 Information Security Lab</h2>
 <h2>👨‍💻 Network Plan</h2>
+![Screenshot from 2024-06-15 18-46-40](https://github.com/Silvan254/Silvan254/assets/65334897/277afc42-af18-42d4-9f71-02df146297f8)
 
 - <b>Active Directory Domain Services (AD,DHCP and DNS) (infosec.local)</b>
   - [Implimenting Active Directory In Simulated Enterprise environment](https://github.com/)
