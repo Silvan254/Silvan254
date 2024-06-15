@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Security Lab</h2>
 Welcome to my Information Security Lab, where I've meticulously crafted an environment to simulate and refine enterprise-grade cybersecurity operations. This setup integrates a diverse array of critical components designed for monitoring, safeguarding, and thoroughly analyzing security events and incidents.
 
-Tools and technologies used: Firewal- pfsense,SIEM-Wazuh,IDS-Suricata,Identity and Access Mngnt- Windows Sever Active Directory,Modsecurity WAF, TCPDUMP,WIRESHARK, Sysmon,ELK
+Tools and technologies used: Firewal- pfsense,SIEM-Wazuh,IDS-Suricata,Identity and Access Mngnt- Windows Sever Active Directory,Nginix WebSever, Web Application Firewall-Modsecurity , TCPDUMP,WIRESHARK, Sysmon,ELK, Virtualization-Virtualbox
 
 <h2>👨‍💻 Network Plan</h2>
 
