@@ -1,7 +1,8 @@
-<h1>Hi, I'm Silvanus! <br/><a href="https://github.com//Silvan254/">Network Engineer and Security Associate</a>
+<h1>Hi, I'm Silvanus! <br/><a href="https://github.com//Silvan254/">Network and Information Security Engineer</a>
 
-<h1>👨‍💻 Cybersecurity Projects: Security Operations Home Lab</h1>
-<h2>👨‍💻 SOC LAB:</h2>
+<h1>👨‍💻 Cybersecurity Projects: </h1>
+<h1>👨‍💻 Information Security Lab</h1>
+<h2>👨‍💻 Network Plan</h2>
 
 - <b>Active Directory Domain Services (AD,DHCP and DNS) (infosec.local)</b>
   - [Implimenting Active Directory In Simulated Enterprise environment](https://github.com/)
