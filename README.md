@@ -12,7 +12,7 @@ Tools and technologies used: Firewal- pfsense,SIEM-Wazuh,IDS-Suricata,Identity a
 
 - <b>Active Directory Domain Services (AD,DHCP and DNS) (infosec.lab)</b>
   - [Implimenting Active Directory In Simulated Enterprise environment](https://github.com/)
-  - - <b>Deploying and managing up pfsense firewall</b>
+- <b>Deploying and managing up pfsense firewall</b>
   - [Setting up Suricata as an IPS/IDS](https://github.com/)
 - <b>Installing-and-Configuring-Sysmon-on-Windows(infosec.lab)</b>
   - [Logging-with-Sysmon-on-Windows](https://github.com/Silvan254/Installing-and-Configuring-Sysmon-on-Windows/blob/main/README.md)
