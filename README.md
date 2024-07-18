@@ -1,4 +1,4 @@
-<h1>Hi, I'm Silvanus! <br/><a href="https://github.com//Silvan254/">Network and Information Security Engineer</a>
+<h1>Hi, I'm Silvanus! <br/><a href="https://github.com//Silvan254/">Network and Security Analyst</a>
 
 <h1>👨‍💻 Cybersecurity Projects: </h1>
 <h2>👨‍💻 Information Security Lab</h2>
