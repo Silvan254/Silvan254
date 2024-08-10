@@ -1,8 +1,8 @@
 <h1>Hi, I'm Silvanus! <br/><a href="https://github.com//Silvan254/">Network and Security Analyst</a>
 
 <h1>👨‍💻 Cybersecurity Projects: </h1>
-<h2>👨‍💻 Information Security Lab</h2>
-Welcome to my Information Security Lab, where I've meticulously crafted an environment to simulate and refine enterprise-grade cybersecurity operations. This setup integrates a diverse array of critical components designed for monitoring, safeguarding, and thoroughly analyzing security events and incidents.
+<h2>👨‍💻 Security Operations Center Home lab</h2>
+Welcome to my SOC Lab, where I've meticulously crafted an environment to simulate and refine enterprise-grade cybersecurity operations. This setup integrates a diverse array of critical components designed for monitoring, safeguarding, and thoroughly analyzing security events and incidents.
 
 Tools and technologies used: Firewal- pfsense,SIEM-Wazuh as EDR,FIM,IDS-Suricata,Identity and Access Mngnt- Windows Sever Active Directory,Nginix WebSever, Web Application Firewall-Modsecurity , TCPDUMP,WIRESHARK, Sysmon,ELK, Virtualization-Virtualbox, Nessus, Nikto
 
