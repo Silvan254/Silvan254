@@ -10,8 +10,10 @@ Tools and technologies used: Firewal- pfsense,SIEM-Wazuh as EDR,FIM,IDS-Suricata
 
 ![Screenshot from 2024-06-15 18-46-40](https://github.com/Silvan254/Silvan254/assets/65334897/277afc42-af18-42d4-9f71-02df146297f8)
 
-- <b>Active Directory Domain Services (AD,DHCP and DNS) (infosec.lab)</b>
+- <b>Active Directory Domain Services (AD,DHCP and DNS) (appsec.lab)</b>
   - [Implimenting Active Directory In Simulated Enterprise environment](https://github.com/)
+- <b>Securing NGINX Web Server with Modsecurity WAF</b>
+  - [Configuring and Securing NGINX Web Server with Modsecurity WAF(Web application Firewall)](https://github.com/Silvan254/Configuring-and-Securing-NGINX-Web-Server-with-Modsecurity-WAF-Web-application-Firewall-)
 - <b>Deploying and managing up pfsense firewall</b>
   - [Installing and configuring firewall](https://github.com/Silvan254/Deploying-pfsensse-firewall-in-a-virtual-machine-/edit/main/README.md)
 - <b>Setting up Suricata as an IPS/IDS(infosec.lab)</b>
@@ -20,8 +22,7 @@ Tools and technologies used: Firewal- pfsense,SIEM-Wazuh as EDR,FIM,IDS-Suricata
   - [Logging-with-Sysmon-on-Windows](https://github.com/Silvan254/Installing-and-Configuring-Sysmon-on-Windows/blob/main/README.md)
 - <b>Intrusion Prevention/Detection System Implimentaion with Suricata</b>
   - [Setting up Suricata as an IPS/IDS](https://github.com/)
-- <b>Securing NGINX Web Server with Modsecurity WAF</b>
-  - [Configuring and Securing NGINX Web Server with Modsecurity WAF(Web application Firewall)](https://github.com/Silvan254/Configuring-and-Securing-NGINX-Web-Server-with-Modsecurity-WAF-Web-application-Firewall-)
+
 
     
 <h2>👨‍💻 Certifications:</h2>
