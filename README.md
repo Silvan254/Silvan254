@@ -46,7 +46,7 @@ Tools and technologies used: Firewal- pfsense,SIEM-Wazuh as EDR,FIM,IDS-Suricata
 
 <h2> 🤳 Connect with me:</h2>
 
-[youtube]: https://www.youtube.com/@appsec-o1n
+[youtube]: (https://www.youtube.com/@appsec-o1n)
 [linkedin]: https://www.linkedin.com/in/silvanus-otunga-256258191/
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
