@@ -26,13 +26,13 @@ Tools and technologies used: Firewal- pfsense,SIEM-Wazuh as EDR,FIM,IDS-Suricata
 
     
 <h2>👨‍💻 Certifications:</h2>
+  *<b>CompTIA Security+</b>
   *<b>Cisco Certified Network Associate (CCNA)</b>
-
   *<b>ISC2 Certified in Cybersecurity (CC)</b>
 
 <h2>About Me</h2>
 
-- 🔭 I’m currently working on enhancing my skills in cybersecurity through hands-on projects and real-world scenarios. Currently, I'm focusing on penetration testing, threat intelligence, and incident response.Working on <h2>ComPTIA SEC+ and TCM Security Practical Junior Penetration Tester(PJPT)</h2>
+- 🔭 I’m currently working on continously enhancing my skills in cybersecurity through hands-on projects and real-world scenarios(Bug Bounty Hunting). Currently, I'm focusing on penetration testing, threat intelligence, and incident response.Working on <h2>Certified Ethical Hacking and TCM Security Practical Junior Penetration Tester(PJPT)</h2>
 - 🌱 I’m currently learning about the latest cybersecurity tools and techniques, particularly in the areas of cloud security, network defense, and malware analysis. Additionally, I'm exploring new programming languages like Python to automate security tasks and improve efficiency.
 - 👯 I’m looking to collaborate on open-source security projects where I can contribute my expertise and learn from other passionate professionals in the field. Whether it's developing security tools, conducting research, or sharing knowledge, I'm eager to collaborate and make a positive impact on the cybersecurity community.
 - 🤔 I’m looking for help with staying updated on emerging threats and vulnerabilities, as well as best practices for securing modern technologies such as IoT devices and cloud environments. Additionally, I'm interested in learning more about secure coding practices and web application security.
@@ -42,14 +42,14 @@ Tools and technologies used: Firewal- pfsense,SIEM-Wazuh as EDR,FIM,IDS-Suricata
 
 - 😄 Pronouns: He/Him
 
-
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="silvanus | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com/
+
+[youtube]: https://www.youtube.com/@appsec-o1n
 [linkedin]: https://www.linkedin.com/in/silvanus-otunga-256258191/
+[twitter]: https://twitter.com/
+[instagram]: https://www.instagram.com/
 
 
 
