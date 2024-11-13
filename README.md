@@ -31,7 +31,6 @@ Tools and technologies used: Firewal- pfsense,SIEM-Wazuh as EDR,FIM,IDS-Suricata
   *<b>Cisco Certified Network Associate (CCNA)</b>
  
   *<b>ISC2 Certified in Cybersecurity (CC)</b>
-  *<b>ISC2 Certified in Cybersecurity (CC)</b>
 
 <h2>About Me</h2>
 
