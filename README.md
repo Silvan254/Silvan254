@@ -27,9 +27,7 @@ Tools and technologies used: Firewal- pfsense,SIEM-Wazuh as EDR,FIM,IDS-Suricata
     
 <h2>👨‍💻 Certifications:</h2>
   *<b>CompTIA Security+</b>
-  
   *<b>Cisco Certified Network Associate (CCNA)</b>
-  
   *<b>ISC2 Certified in Cybersecurity (CC)</b>
 
 <h2>About Me</h2>
