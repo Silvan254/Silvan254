@@ -12,6 +12,8 @@ Tools and technologies used: Firewal- pfsense,SIEM-Wazuh as EDR,FIM,IDS-Suricata
 
 - <b>Active Directory Domain Services (AD,DHCP and DNS) (appsec.lab)</b>
   - [Implimenting Active Directory In Simulated Enterprise environment](https://github.com/)
+- <b>Intrusion Prevention/Detection System Implimentaion with Suricata</b>
+  - [Setting up Suricata as an IPS/IDS](https://github.com/)
 - <b>Securing NGINX Web Server with Modsecurity WAF</b>
   - [Configuring and Securing NGINX Web Server with Modsecurity WAF(Web application Firewall)](https://github.com/Silvan254/Configuring-and-Securing-NGINX-Web-Server-with-Modsecurity-WAF-Web-application-Firewall-)
 - <b>Deploying and managing up pfsense firewall</b>
@@ -20,8 +22,7 @@ Tools and technologies used: Firewal- pfsense,SIEM-Wazuh as EDR,FIM,IDS-Suricata
   - [Setting up Suricata as an IPS/IDS](https://github.com/)
 - <b>Installing-and-Configuring-Sysmon-on-Windows(infosec.lab)</b>
   - [Logging-with-Sysmon-on-Windows](https://github.com/Silvan254/Installing-and-Configuring-Sysmon-on-Windows/blob/main/README.md)
-- <b>Intrusion Prevention/Detection System Implimentaion with Suricata</b>
-  - [Setting up Suricata as an IPS/IDS](https://github.com/)
+
 
 
     
