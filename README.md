@@ -13,7 +13,7 @@ Tools and technologies used: Firewal- pfsense,SIEM-Wazuh as EDR,FIM,IDS-Suricata
 - <b>Active Directory Domain Services (AD,DHCP and DNS) (appsec.lab)</b>
   - [Implimenting Active Directory In Simulated Enterprise environment](https://github.com/)
 - <b>Installing-and-Configuring-Sysmon-on-Windows(infosec.lab)</b>
-  - [Logging-with-Sysmon-on-Windows]((https://github.com/Silvan254/Vulnerable-lambda-in-AWS-Cloudgoat-scenario))
+  - [Logging-with-Sysmon-on-Windows](https://github.com/Silvan254/Vulnerable-lambda-in-AWS-Cloudgoat-scenario))
 - <b>Intrusion Prevention/Detection System Implimentaion with Suricata</b>
   - [Setting up Suricata as an IPS/IDS](https://github.com/)
 - <b>Securing NGINX Web Server with Modsecurity WAF</b>
