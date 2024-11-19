@@ -11,6 +11,7 @@ Tools and technologies used: Firewal- pfsense,SIEM-Wazuh as EDR,FIM,IDS-Suricata
 ![Screenshot from 2024-06-15 18-46-40](https://github.com/Silvan254/Silvan254/assets/65334897/277afc42-af18-42d4-9f71-02df146297f8)
 
 <h2>Mini Projects</h2>
+
 - <b>Active Directory Domain Services (AD,DHCP and DNS) (appsec.lab)</b>
   - [Implimenting Active Directory In Simulated Enterprise environment](https://github.com/)
 - <b>AWS Pentesting - Vulnerable-lambda Cloudgoat scenario-in-AWS</b>
